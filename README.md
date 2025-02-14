@@ -1,2 +1,6 @@
-# my-nestjs-app
-dev ôn bài
+
+# Init Project
+## Lệnh command
+```
+-- Tạo project
+nest new my-nestjs-app
